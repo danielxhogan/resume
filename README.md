@@ -1,6 +1,7 @@
 # Daniel Hogan
 
-danielxhogan@gmail.com | linkedin.com/in/danielxhogan | github.com/danielxhogan | danielhoganofficial.com | 541-761-3824 | Central Point, OR 97502 | US Citizen
+danielxhogan@gmail.com | linkedin.com/in/danielxhogan | github.com/danielxhogan | danielhoganofficial.com \
+541-761-3824 | Central Point, OR 97502 | US Citizen
 
 ## Education
 
